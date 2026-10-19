@@ -1,0 +1,16 @@
+# 依赖
+node_modules/
+
+# 构建产物
+dist/
+
+# 临时/输出目录
+tmp/
+output/
+.superpowers/
+
+# TypeScript 构建缓存
+*.tsbuildinfo
+
+# 临时截图
+37A9F2F3-*.png
